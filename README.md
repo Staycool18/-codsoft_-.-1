@@ -1,2 +1,2 @@
 # CODSOFT
-Projects of codsoft internship program
+Projects of codsoft internship program of python programming
